@@ -1,0 +1,8 @@
+<svg width="420" height="82" viewBox="0 0 420 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="82" rx="24" fill="transparent"/>
+  <rect x="8" y="9" width="64" height="64" rx="18" stroke="rgba(255,255,255,0.8)" stroke-width="1.5"/>
+  <path d="M27 24.5V57.5H39.5C48.5 57.5 55 51 55 42.5C55 34 48.5 27.5 39.5 27.5H27ZM33.5 31.5H38.9C44.7 31.5 49 35.5 49 42.5C49 49.5 44.7 53.5 38.9 53.5H33.5V31.5Z" fill="white"/>
+  <path d="M43 31.5H46.5V57.5H43V31.5Z" fill="white"/>
+  <text x="92" y="51" fill="white" font-size="21" font-weight="700" letter-spacing="5" font-family="Segoe UI, Arial, sans-serif">PRNX</text>
+  <text x="248" y="51" fill="rgba(255,255,255,0.7)" font-size="12" font-weight="500" letter-spacing="8" font-family="Segoe UI, Arial, sans-serif">STUDIO</text>
+</svg>
