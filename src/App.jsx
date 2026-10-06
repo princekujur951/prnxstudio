@@ -434,7 +434,6 @@ function App() {
 
                   <div className="p-6">
                     <h4 className="text-2xl font-bold tracking-[-0.05em] text-white">{service.title}</h4>
-                    <p className="mt-3 max-w-xs text-sm leading-6 text-white/60">{service.description}</p>
                   </div>
                 </motion.div>
               )
