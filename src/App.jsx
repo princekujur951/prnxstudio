@@ -108,7 +108,7 @@ const services = [
       'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=1200&q=80',
     icon: Sparkles,
     embed:
-      '<iframe width="341" height="606" src="https://www.youtube.com/embed/U6-jLqyO-Rk" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      '<iframe width="341" height="606" src="https://www.youtube.com/embed/OcBbU24GMxc" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
     title: 'Edit 6',
@@ -117,7 +117,7 @@ const services = [
       'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80',
     icon: AtSign,
     embed:
-      '<iframe width="341" height="606" src="https://www.youtube.com/embed/U6-jLqyO-Rk" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      '<iframe width="341" height="606" src="https://www.youtube.com/embed/m197wddbPOk" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
 ]
 
