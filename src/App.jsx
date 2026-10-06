@@ -66,7 +66,7 @@ const projects = [
 
 const services = [
   {
-    title: 'Video Editing',
+    title: 'Edit 1',
     description: 'Elevated edits tailored for motion-first audiences and premium brand presence.',
     image:
       'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=1200&q=80',
@@ -75,7 +75,7 @@ const services = [
       '<iframe width="341" height="606" src="https://www.youtube.com/embed/U6-jLqyO-Rk" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
-    title: 'Reels & Shorts',
+    title: 'Edit 2',
     description: 'Fast, punchy stories built to stop the scroll and turn attention into action.',
     image:
       'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80',
@@ -84,7 +84,7 @@ const services = [
       '<iframe width="341" height="606" src="https://www.youtube.com/embed/hU-8k_KO2Bg" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
-    title: 'Cinematic Editing',
+    title: 'Edit 3',
     description: 'Story-driven edits with mood, rhythm, and a premium look designed to feel expensive.',
     image:
       'https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=80',
@@ -93,7 +93,7 @@ const services = [
       '<iframe width="341" height="606" src="https://www.youtube.com/embed/eKPd75sg-Ck" title="IMG 9407" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
-    title: 'Color Grading',
+    title: 'Edit 4',
     description: 'Rich tonal control and cinematic polish that make every cut feel intentional.',
     image:
       'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80',
@@ -102,7 +102,7 @@ const services = [
       '<iframe width="341" height="606" src="https://www.youtube.com/embed/KmhdPMsZZOI" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
-    title: 'Motion Graphics',
+    title: 'Edit 5',
     description: 'Animated elements and transitions that add tempo, clarity, and high-end polish.',
     image:
       'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=1200&q=80',
@@ -111,7 +111,7 @@ const services = [
       '<iframe width="341" height="606" src="https://www.youtube.com/embed/U6-jLqyO-Rk" title="𝑺𝑶𝑴𝑬 𝑷𝑳𝑨𝑪𝑬𝑺 𝑫𝑶𝑵’𝑻 𝑨𝑺𝑲 𝑭𝑶𝑹 𝑾𝑶𝑹𝑫𝑺,𝑻𝑯𝑬𝒀 𝑯𝑬𝑨𝑳 𝒀𝑶𝑼 𝑰𝑵 𝑺𝑰𝑳𝑬𝐮mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
-    title: 'Thumbnail Design',
+    title: 'Edit 6',
     description: 'Scroll-stopping cover visuals built for clicks, retention, and stronger audience pull.',
     image:
       'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80',
